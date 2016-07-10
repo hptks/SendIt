@@ -3,6 +3,7 @@ Node.js application which allows you to send emails through nodemailer module.
 
 #How to run it
 ```Latest versions of Node.js and npm required!```
+
 First you will need to clone the repository somewhere on your computer. This can be done the following way:
 ```
 git clone https://github.com/hptks/SendIt.git
