@@ -19,3 +19,5 @@ Now when the server is up and running let's see how does it work.
 
 #How does it work
 Open your browser and navigate to the following address: ```http://localhost:8888/```. You will then see the form pictured below:
+
+![form](https://cloud.githubusercontent.com/assets/10895161/16715538/da6d9a78-46da-11e6-9913-d5ee57e5daef.png)
