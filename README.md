@@ -16,3 +16,6 @@ npm install
 When all packages are installed navigate to the ```app``` folder ```cd app```. In this folder run the index.js file using ```node``` command: ```node index.js```.
 
 Now when the server is up and running let's see how does it work.
+
+#How does it work
+Open your browser and navigate to the following address: ```http://localhost:8888/```. You will then see the form pictured below:
